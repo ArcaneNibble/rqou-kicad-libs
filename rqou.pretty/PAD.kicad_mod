@@ -1,0 +1,9 @@
+(module PAD (layer F.Cu) (tedit 54D350CA)
+  (fp_text reference PAD (at 0 -2.54) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (fp_text value SMD (at 0 -4.826) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 3.81 2.032) (layers F.Cu F.Paste F.Mask))
+)
